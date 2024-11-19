@@ -1,4 +1,3 @@
-# College-project
 # ESP32 Firebase IoT Monitoring Project
 
 This project demonstrates how to use an ESP32 microcontroller to generate random sensor data and send it to a Firebase Realtime Database. The project is ideal for understanding the integration of IoT devices with cloud-based databases for real-time monitoring.
