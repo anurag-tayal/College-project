@@ -133,3 +133,4 @@ This project is licensed under the MIT License. Feel free to modify and distribu
 - Arduino IDE for development.
 
 ---
+Start contributing and enjoy exploring IoT with Firebase!
